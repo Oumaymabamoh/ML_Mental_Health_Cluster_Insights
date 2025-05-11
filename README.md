@@ -1,4 +1,4 @@
-# Mental Health in Technology-related Jobs – ML Supervised Learning Project
+#🧠 Mental Health in Technology-related Jobs – ML Supervised Learning Project
 
 ## Overview
 This project supports a pre-emptive HR initiative aimed at mitigating mental health issues in a tech-oriented company. It is based on survey data collected from technology professionals and explores mental health trends, clusters, and characteristics to inform targeted workplace improvements.
