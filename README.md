@@ -20,7 +20,7 @@ Identifying and interpreting participant clusters
 Visualizing meaningful patterns for targeted HR interventions
 
 ## Dataset
-Source: Kaggle - [OSMI Mental Health in Tech 2016](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)
+Source: [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)
 Description: Survey data on mental health conditions, attitudes, workplace policies, and personal demographics from tech professionals.
 
 ##  Key Steps & Techniques
