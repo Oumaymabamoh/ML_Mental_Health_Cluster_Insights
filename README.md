@@ -1,0 +1,52 @@
+# Mental Health in Technology-related Jobs – ML Supervised Learning Project
+
+## Overview
+This project supports a pre-emptive HR initiative aimed at mitigating mental health issues in a tech-oriented company. It is based on survey data collected from technology professionals and explores mental health trends, clusters, and characteristics to inform targeted workplace improvements.
+
+## Table of Contents
+- [Project Objective](#project-objective)
+- [Data](#data)
+- [Modeling](#modeling)
+- [GUI](#gui)
+- [How to Run](#How-to-Run)
+
+## Project Objective
+The HR department seeks insights into mental health among employees by:
+
+Reducing the high dimensionality and complexity of the survey data
+
+Identifying and interpreting participant clusters
+
+Visualizing meaningful patterns for targeted HR interventions
+
+## Dataset
+Source: Kaggle - [OSMI Mental Health in Tech 2016](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)
+Description: Survey data on mental health conditions, attitudes, workplace policies, and personal demographics from tech professionals.
+
+##  Key Steps & Techniques
+### Exploratory Data Analysis (EDA):
+Descriptive statistics
+Missing value handling
+Standardization and encoding of text inputs
+# Feature Selection & Extraction:
+Chi-Square Test
+ANOVA (f_classif)
+Mutual Information
+PCA (Principal Component Analysis)
+MDS (Multidimensional Scaling)
+# Clustering:
+KMeans, Agglomerative Clustering
+Cluster evaluation (Silhouette Score)
+# Visualization:
+Variance explained (PCA)
+Cluster heatmaps and scatter plots (2D/3D)
+Feature impact interpretation
+
+## How to Run
+Clone this repository
+Install dependencies: pip install -r requirements.txt
+Open the notebooks to follow the analysis step-by-step
+
+## Future Improvements
+Integrate classification models for mental health risk prediction
+Deploy interactive dashboards for HR use
