@@ -28,16 +28,16 @@ Description: Survey data on mental health conditions, attitudes, workplace polic
 Descriptive statistics
 Missing value handling
 Standardization and encoding of text inputs
-# Feature Selection & Extraction:
+### Feature Selection & Extraction:
 Chi-Square Test
 ANOVA (f_classif)
 Mutual Information
 PCA (Principal Component Analysis)
 MDS (Multidimensional Scaling)
-# Clustering:
+### Clustering:
 KMeans, Agglomerative Clustering
 Cluster evaluation (Silhouette Score)
-# Visualization:
+### Visualization:
 Variance explained (PCA)
 Cluster heatmaps and scatter plots (2D/3D)
 Feature impact interpretation
