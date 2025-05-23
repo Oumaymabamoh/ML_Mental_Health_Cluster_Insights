@@ -24,19 +24,24 @@ Source: [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016
 Description: Survey data on mental health conditions, attitudes, workplace policies, and personal demographics from tech professionals.
 
 ## 💡 Key Steps & Techniques
+
 ### Exploratory Data Analysis (EDA):
-Descriptive statistics
-Missing value handling
-Standardization and encoding of text inputs
+Assessed missing values and patterns of incompleteness
+Encoded categorical and binary features (e.g., Label Encoding)
+Created meaningful numerical representations of qualitative responses
+Generated visual overviews (bar charts, correlation matrices) for key variables
+
 ### Feature Selection & Extraction:
 Chi-Square Test
 ANOVA (f_classif)
 Mutual Information
 PCA (Principal Component Analysis)
 MDS (Multidimensional Scaling)
+
 ### Clustering:
 KMeans, Agglomerative Clustering
 Cluster evaluation (Silhouette Score)
+
 ### Visualization:
 Variance explained (PCA)
 Cluster heatmaps and scatter plots (2D/3D)
@@ -48,5 +53,10 @@ Install dependencies: pip install -r requirements.txt
 Open the notebooks to follow the analysis step-by-step
 
 ## 📌 Future Improvements
-Integrate classification models for mental health risk prediction
-Deploy interactive dashboards for HR use
+Integrate supervised learning models (e.g., logistic regression, decision trees) for mental health risk prediction
+
+Build an interactive dashboard (e.g., with Streamlit or Dash) for HR reporting and scenario testing
+
+Expand to time-series or longitudinal survey data for monitoring employee wellness over time
+
+
