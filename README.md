@@ -31,11 +31,8 @@ Created meaningful numerical representations of qualitative responses
 Generated visual overviews (bar charts, correlation matrices) for key variables
 
 ### Feature Selection & Extraction:
-Chi-Square Test
-ANOVA (f_classif)
-Mutual Information
 PCA (Principal Component Analysis)
-MDS (Multidimensional Scaling)
+
 
 ### Clustering:
 KMeans, Agglomerative Clustering
