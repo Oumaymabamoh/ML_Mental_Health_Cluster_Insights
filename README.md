@@ -5,12 +5,11 @@ This project supports a pre-emptive HR initiative aimed at mitigating mental hea
 
 ## 📋 Table of Contents
 - [Project Objective](#project-objective)
-- [Data](#data)
-- [Modeling](#modeling)
-- [GUI](#gui)
+- [Dataset](#dataset)
+- [Key Steps & TechniquesModeling](#key-steps-&-techniques)
 - [How to Run](#How-to-Run)
 
- ##  Project Objective
+## 🎯 Project Objective
 The HR department seeks insights into mental health among employees by:
 
 Reducing the high dimensionality and complexity of the survey data
@@ -32,11 +31,8 @@ Created meaningful numerical representations of qualitative responses
 Generated visual overviews (bar charts, correlation matrices) for key variables
 
 ### Feature Selection & Extraction:
-Chi-Square Test
-ANOVA (f_classif)
-Mutual Information
 PCA (Principal Component Analysis)
-MDS (Multidimensional Scaling)
+
 
 ### Clustering:
 KMeans, Agglomerative Clustering
@@ -58,5 +54,7 @@ Integrate supervised learning models (e.g., logistic regression, decision trees)
 Build an interactive dashboard (e.g., with Streamlit or Dash) for HR reporting and scenario testing
 
 Expand to time-series or longitudinal survey data for monitoring employee wellness over time
+
+Stay curious, stay clustered !
 
 
