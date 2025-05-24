@@ -9,7 +9,7 @@ This project supports a pre-emptive HR initiative aimed at mitigating mental hea
 - [Key Steps & TechniquesModeling](#key-steps-&-techniques)
 - [How to Run](#How-to-Run)
 
- ##  Project Objective
+## 🎯 Project Objective
 The HR department seeks insights into mental health among employees by:
 
 Reducing the high dimensionality and complexity of the survey data
@@ -57,6 +57,7 @@ Integrate supervised learning models (e.g., logistic regression, decision trees)
 Build an interactive dashboard (e.g., with Streamlit or Dash) for HR reporting and scenario testing
 
 Expand to time-series or longitudinal survey data for monitoring employee wellness over time
-# Stay curious, stay clustered !
+
+Stay curious, stay clustered !
 
 
