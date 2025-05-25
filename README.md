@@ -45,7 +45,10 @@ Feature impact interpretation
 
 ## ⚙️ How to Run
 Clone this repository
-Install dependencies: pip install -r requirements.txt
+Install dependencies: 
+
+```pip install -r requirements.txt```
+
 Open the notebooks to follow the analysis step-by-step
 
 ## 📌 Future Improvements
