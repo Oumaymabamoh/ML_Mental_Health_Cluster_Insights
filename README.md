@@ -23,25 +23,10 @@ Source: [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016
 Description: Survey data on mental health conditions, attitudes, workplace policies, and personal demographics from tech professionals.
 
 ## 💡 Key Steps & Techniques
-
-### Exploratory Data Analysis (EDA):
-Assessed missing values and patterns of incompleteness
-Encoded categorical and binary features (e.g., Label Encoding)
-Created meaningful numerical representations of qualitative responses
-Generated visual overviews (bar charts, correlation matrices) for key variables
-
-### Feature Selection & Extraction:
-PCA (Principal Component Analysis)
-
-
-### Clustering:
-KMeans, Agglomerative Clustering
-Cluster evaluation (Silhouette Score)
-
-### Visualization:
-Variance explained (PCA)
-Cluster heatmaps and scatter plots (2D/3D)
-Feature impact interpretation
+Exploratory Data Analysis (EDA)
+Feature Selection & Extraction
+Clustering
+Visualization
 
 ## ⚙️ How to Run
 Clone this repository
